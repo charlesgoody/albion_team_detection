@@ -10,6 +10,7 @@ This application also support multi images processing
 *it'll produce the attendance.xlsx file containing the sum up of attendance and each pic infered by paddleocr.
 
 Snip images like setting priority
+
 ![image](https://github.com/charlesgoody/albion_team_detection/blob/main/images/image.png)
 ![image](https://github.com/charlesgoody/albion_team_detection/blob/main/images/image123.png)
 
