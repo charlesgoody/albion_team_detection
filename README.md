@@ -4,10 +4,10 @@
 
 This application also support multi images processing
 
-#how to use?
+# how to use?
 
-*put the images on to the same directory with exe file.
-*it'll produce the attendance.xlsx file containing the sum up of attendance and each pic infered by paddleocr.
+- put the images on to the same directory with exe file.
+- it'll produce the attendance.xlsx file containing the sum up of attendance and each pic infered by paddleocr.
 
 Snip images like setting priority
 
