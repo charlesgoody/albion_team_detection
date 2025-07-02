@@ -1,0 +1,5 @@
+__pycache__/
+pyinstaller.txt
+albion.ico
+recognize_team.exe
+scrapper/__pycache__
